@@ -1,0 +1,37 @@
+h1 {
+background-color: #C8C8C8;
+color: #FFFF99;
+font-family: Courier New;
+
+}
+
+body {
+  font-family: helvetica neue, arial, sans-serif;
+}
+
+a {
+color: #A00000;	
+}
+
+h2 {
+
+color: #0099FF;
+}
+
+h4 {
+	color: black;
+}
+
+body {
+ background-color: #C8C8C8;
+
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
